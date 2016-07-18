@@ -1,6 +1,7 @@
-import com.formation.dao.UtilisateurDaoImp;
 import com.formation.presentation.IUtilisateurView;
 import com.formation.presentation.UtilisateurViewImp;
+
+import dao.UtilisateurDaoImp;
 
 public class TestMain {
 

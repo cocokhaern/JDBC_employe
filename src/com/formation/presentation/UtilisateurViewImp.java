@@ -3,8 +3,9 @@ package com.formation.presentation;
 import java.util.List;
 import java.util.Scanner;
 
-import com.formation.dao.IUtilisateurDao;
 import com.formation.metier.Utilisateur;
+
+import dao.IUtilisateurDao;
 
 public class UtilisateurViewImp implements IUtilisateurView {
 
